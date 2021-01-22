@@ -188,8 +188,8 @@ class YouTubeSearch:
         html = str(html)
         search_start = 'var ytInitialData = '
         videos_json_start = html.find(search_start) + len(search_start)
-        search_end = "}}]}}}}}}"
-        videos_json_end = videos_json_start + html[videos_json_start:].find(search_end) + len(search_end)
+        search_end = "};</script>"
+        videos_json_end = videos_json_start + html[videos_json_start:].find(search_end)
         videos_json = html[videos_json_start:videos_json_end] + "}"
         try:
             videos_json = json.loads(videos_json)
