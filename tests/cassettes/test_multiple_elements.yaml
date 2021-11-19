@@ -1,0 +1,1599 @@
+interactions:
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Authorization:
+      - Bearer BQBjXTkWDqZSM5LBXmnnjNmgd6G43iNiKTni8W1mriEGpuuEz6zHA2ovAPCO2NFT3mmhad8J_PuRDC6BmfE
+      Connection:
+      - keep-alive
+      Content-Type:
+      - application/json
+      User-Agent:
+      - python-requests/2.26.0
+    method: GET
+    uri: https://api.spotify.com/v1/tracks/4EWCNWgDS8707fNSZ1oaA5
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAAOyWW1PieBDF3/dTUDzMkzMkEC7LmwQImAvRBHHc2qIC+Sspw2WS4Iw15Xff8EsQ
+        dUTRfZWHU0W6+/TpJnT3778KhaIXTtbzYqFZ+J1+234fJ3crsXmYm49yW5QEcRJvDP/k/ulT8SsR
+        0cILx+sojHdM2OLVMgmu7qCaJckqbpZKy5VYfMsN36bLeSmjLVV1ZVSLfrS6o/bi2Kp1T4c3Tu1X
+        MSe7P9rmm0Xi6gmhtwqe8N3KOWW8j/OBK/Bhestt4c2zduje4k4URiJOdsZdr0i6M6yjgOe5tmZm
+        b75W533h322vb70g9CahGM+96EZsu148bhePUuyAGmiAJjgAz0AXHIKXG2wdgy0QnhY8rS4IW6sH
+        9sET0AJhbsHcckD4WyPwO0gWlSwqPCo8KgpVFKrwqPCo5yAMKgwqDG1Utcne1kFi28S28emoIJ4d
+        lHdQ1SVjl9guUV1yaajSqFojSkOhho9GjdopmPlTnYY2DW09lPTw7OHTw6dHh/sw92HuU28fzz6q
+        +niekOuEKk7sDer46+jX0aOjX8dTh0Enl44SndoNajH4HQ36YBBloNDA3yCvQV4DhQbdNok1iTLR
+        bKLBRIOJBhMekypMNJhoNmE24TThNDNOtJkXIL0y0WmRy4Lfgt9CpwWzBadFHyyYLaIG1G4TaxNr
+        E2ujzUabDYNNjTZ6bDTYZD8l9gz+M3zOUHuGj4PVoXsOfXDI4pDFQaFDFocsDnoc+uCg0yGjQ+0O
+        ml066cLgotMl1iXKRYlLrEusS6yLHheGIaqGMAzRPKSWIdZzdJ7Ddk4tI3wu0HlJ7CU6L0fFhxmy
+        dzIfOJc3s79UGXVdrT+odSoXM2XldQat738Phvm4yhMdNJI3bPE+upwon8dvOM29a/F8C81EcD1L
+        Ng9rivRoBIdPdKWqpv4ilVSCpORNavWaXPOl9DMp1ysVpebX60KuVv1GValXqoosCV9u7Ib6z8BP
+        ZnmavAcviahIHxMhC6n8DhFpmldE1JQPaVAaVfldjXi2uh62ZUNqxIUvhZ5IN98kEt7N9heMRCi8
+        WIx9L8k8y5LU+CrLX8vKSy7jVSSmQRwsFzj73t3WK1km6eudRN70hhdCLm8NLx4wf2zkjbG5/w3n
+        /X7p7Pnff623T553/bcOOXcOOnZeOXX2HDrvP3PyN+XzxPk8cT5PnM8T5+MnTtEP4ul4sZ5PRMT0
+        zx6uIy9Jd8V4zkApy7KULeN0aK/CYBqwG6+8MBb503yUB/6jSV4M4mjKXBs6Q7MuNRSpKsu7pbBn
+        ARw2/llYJaUzUq3Rddtp1KX6leVcykvvuLpLccjkz1bfPipo8rH/qks8DpdTL3zamIdVwAIPRRxn
+        3qvlah16UZBQZSPrerqibwPxc5wfGot1GPIcgY9+o0r2dLtKMGe0z/cIpua+Jt3/BwAA//8DAI2Q
+        dWq+EAAA
+    headers:
+      Alt-Svc:
+      - clear
+      Transfer-Encoding:
+      - chunked
+      Via:
+      - HTTP/2 edgeproxy, 1.1 google
+      access-control-allow-credentials:
+      - 'true'
+      access-control-allow-headers:
+      - Accept, App-Platform, Authorization, Content-Type, Origin, Retry-After, Spotify-App-Version,
+        X-Cloud-Trace-Context, client-token, content-access-token
+      access-control-allow-methods:
+      - GET, POST, OPTIONS, PUT, DELETE, PATCH
+      access-control-allow-origin:
+      - '*'
+      access-control-max-age:
+      - '604800'
+      cache-control:
+      - public, max-age=80037
+      content-encoding:
+      - gzip
+      content-type:
+      - application/json; charset=utf-8
+      date:
+      - Fri, 22 Oct 2021 19:20:02 GMT
+      server:
+      - envoy
+      strict-transport-security:
+      - max-age=31536000
+      x-content-type-options:
+      - nosniff
+      x-robots-tag:
+      - noindex, nofollow
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Authorization:
+      - Bearer BQBjXTkWDqZSM5LBXmnnjNmgd6G43iNiKTni8W1mriEGpuuEz6zHA2ovAPCO2NFT3mmhad8J_PuRDC6BmfE
+      Connection:
+      - keep-alive
+      Content-Type:
+      - application/json
+      User-Agent:
+      - python-requests/2.26.0
+    method: GET
+    uri: https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAAJyST2vDIBjG7/sU4rk0sUnMn9vG6KUwGGP0MMawiUlkVp0xa0vpd5+atKyMjlIv
+        4uPr83vUd38HAKRbQ7Ug/KPXvIOgAHurWr1T0rB65xTYGqO6IgikomI6bkxLuQ6INqwzQbKIl1h/
+        PcyXj+L+Cc+fXz9f8BZao8PEMWrJudxQ/du/1bR2S9FzPhkkIw3hTkNJlM+yMDsZNFRo6k+/AVi2
+        rCSNBJooOAHQTeDdlx09T4GJYmd5v9EYubuU2fuwyrv8W7ImzTHR8UaUNa1xEo7D8Ur2Uc8C2Thl
+        JWyWwBsEZIVTjDAK7aAJXWU4DcOM5CmqCQ3ruMpRVOOIwNFvwyrTjgj/On/h0ewWeILS+Gq4RVyA
+        I3wLvEZpdjXcIhx8/HJB1tRzFkTsKFjSzgwfpKTqOdHM+BbOsRfNTg3VQxcMlb1mXhsbpRj2iktN
+        ffgBAAD//wMAyZN9bTcDAAA=
+    headers:
+      Alt-Svc:
+      - clear
+      Transfer-Encoding:
+      - chunked
+      Via:
+      - HTTP/2 edgeproxy, 1.1 google
+      access-control-allow-credentials:
+      - 'true'
+      access-control-allow-headers:
+      - Accept, App-Platform, Authorization, Content-Type, Origin, Retry-After, Spotify-App-Version,
+        X-Cloud-Trace-Context, client-token, content-access-token
+      access-control-allow-methods:
+      - GET, POST, OPTIONS, PUT, DELETE, PATCH
+      access-control-allow-origin:
+      - '*'
+      access-control-max-age:
+      - '604800'
+      cache-control:
+      - public, max-age=86297
+      content-encoding:
+      - gzip
+      content-type:
+      - application/json; charset=utf-8
+      date:
+      - Fri, 22 Oct 2021 19:20:02 GMT
+      server:
+      - envoy
+      strict-transport-security:
+      - max-age=31536000
+      x-content-type-options:
+      - nosniff
+      x-robots-tag:
+      - noindex, nofollow
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Authorization:
+      - Bearer BQBjXTkWDqZSM5LBXmnnjNmgd6G43iNiKTni8W1mriEGpuuEz6zHA2ovAPCO2NFT3mmhad8J_PuRDC6BmfE
+      Connection:
+      - keep-alive
+      Content-Type:
+      - application/json
+      User-Agent:
+      - python-requests/2.26.0
+    method: GET
+    uri: https://api.spotify.com/v1/albums/3WFTGIO6E3Xh4paEOBY9OU
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAAOxd3XKiXBa976egvPiu0h1+BDRVX00p8S8KMeJPkqmpFMpRSRAMYBLzVd/NO8wz
+        zGvMo8yTDC7UJBohjT12Vef0xa5qzj5rr7MhZ61QBP76wjAZw+7PJjfBfEoyzMnyv5kjjHiB5Qf+
+        4vDfmb/CI+Ex8hQQzzHsm5lnYyQ6Ho74UzewhnOAjINg6p8cH7tT4nxbDnwbuJPjCPJYrGd7kndf
+        LPdOnYImlS86d7r0lAHU96Oo0tgjwzdgxtR6g/XALeH8XXhLJMsETnySY0yiBtQNZ06YHvGD1dBL
+        b1BudXjmWTi65HQSjZ7sXtt35h9RXx8Myzb6NrmZGN4dWXU4UzjNHIWxhFhBbCCqiOeILcQ2Ygfx
+        ehGLBcQiInCKwCmWEYFWrCLWEM8QNUQgF4Fc1BGBX+whXiGiioIqCnAU4ChgqIChAhwFOEoXEQgK
+        EBQgnILVKaqf1hEx9xRzT5FTUhCRWQLzEliVUbGMuWXMKqNWBawqWHUFsypgWEFOBWusXCBG+Vhd
+        Bdwq4FYFkyoyq8ipIqeKDteAXANyDeutIbMGVjVknqHWGVZx1lzEOvLr4F8Hnzr415FZB0Idtepg
+        UsfaG1hLA+exgT40MKsBhg3kN1C3gboNMGyg2yrmqpilgrMKDio4qOCgAkfFKlRwUMFZBbIKTBWY
+        aoQJbuolInqlgqeGWhrwNeBr4KkBWQOmhj5oQNYw6xxrb2JuE3ObmNsEtya4NYHQxBqb4NMEhyaq
+        X2BuC/gt5LTAtoUcHaM6uqejDzqq6Kiig6GOKjqq6OCjow86eOqoqGPtOji30ck2ENrg2cbcNma1
+        waSNuW3MbWNuG3zaQOiAVQcIHXDuYC0djHbBswu0LtbSQ84leF5j7jV4Xvcyyx1k4E7nnjUab2zO
+        Qbg7Y0v6z78ZnmVzTEetMC0ycD3Tckb+EVNzBt+2djUFe9PRFsh///mvH0Bpvt7h1iphma9EIjOb
+        DpDLshLLi6LMCVleYKPyX3aLywelZSFcx0Kv3K7UzqWScDnOTo3SefEqf955KTEijkeWXYu4fkhn
+        Ftj+LnDALEUmNmVijMjbMzYmi7O4OCRl2bWu2G/4hGwGphNSOQbAsdGXZImTTDb81+dlQchKpiwT
+        ThTNnJiVBTHLscTkcqtT9GiZwXhZ4s2ZfikusGmKc4TlP1w8LLGjuJRNUTubE7kfWPirazNUXhLV
+        abmDr4WvZWLbRnSC1h4gx+Z85g+mSkJN73vEuIvGp+50ZhueFeBSlGUc9IhNDJ/cmEYQTV78zHzl
+        uK98NrOVcDP1yMDyLddBqmnMo5zADcLLPvCMwR0uEI6PDq8PrLq278V6HEH+zR0OfRL8yf5hWxMr
+        +FNk12YpIJM31+j7RjDeDP5UQ/jKFP5cY/hhc5hgEGNMYjqjiBVHl2vUf2oYqWGkhpEaxrSGEbuI
+        afmDG2c26RMPEvMyMPOMIJSkm2jjF2RZWvkBbPJT2xpYkOqhYfvk1cjO7f9jmz+06FgkolpvBmez
+        cj+nGUQvzbvi6HS9D67LfWTfj9RtF+QaarXpJ6X5N7Y7MOztpa/FQDfmzJU7Y3qWbb9MDFX+wSKP
+        N0tH48xsez0Giu+eh7WEIOUFbVM/MHwS17a1zaLi/WvE++j/02l2WGC73Z5/eZ6/cgq693w/nFzN
+        9u/0DtztTicnvnTaMhllZlr79Tl+xdQkUZNETRI1SYc3SbzE5wXhcCZJKHO5mtwY9+pP9pBrzgPd
+        bYc7zz4maQfkpklKTEs2ST1ih6UJ03Y3b6kg70fcEp/SLcX1j7olequDqjhVcarin07FOY495K2O
+        bKmnaL3RqZ6TWXmo6decaxTEvVR8B+SmiiemJas4pNsmvp9OuYWUyh3XM6rcv+d9juy8WJfFXle5
+        uCS33JTNVnr3T9X9O70Dd7vTyYnrTp8R8jzfr8nxy6X2iNojao+oPfoF9kjICYe8ycFOhGvCDua5
+        +2JV97s8eSoMlce97NEOyE17lJiWbI8KE+PZckbpzFE2pTmK6xg1R/S2BtVtqttUtz+dbsuswEqH
+        023u7on0quV801O619WHrn/3kLNHe+n2DshN3U5MS9bthvtAmIY7uDPdRyedeosp1Tuub1S9f89b
+        G9xzN9+5bXfIw+1U7HZM877W6Tj7d3oH7nankxPXnVY9pjozfdfZr9HxS6Y2idokapOoTfoVNknO
+        H9ImsY/81Lrq3XJlvv/cGQbPlbNRPb/f7Y33IbdubySlJdukpuEZjhvipXJIUkqHFNcy6pDo/Q0q
+        3FS4qXB/PuHOCtIBH9tg+UahLt+3uce5wd7ZOtHO89JwP+F+H3JLuJPSkoW75fZdxZ2m0205rW7H
+        dIzqNtVtqttUt6lufzbd5nL5g/7CLd3mRm27P77N1890Mp9qA62g7/cL9w7ITd1OTPvAX5YGHiEB
+        04he85JKvXMp1Tuub1S9qXpT9abqTdX7s6k3L+Rk+YBPA3KO1nQr/Hg+Kj145YpdNccPZ/up9w7I
+        racKktKS1btomIxGHlMKdz7tAwUxLaPC/Xs+UCCKBYMf3M/tJ69cu1RkSb7OSeJP6PT7uO90OjHx
+        5Vkby2Z6xtwhezY6dsnUIVGHRB0SdUi/wCGJOY4/5JuznmfuM6cVnalbrUsj0e+Xqrnyfm/Oeh9y
+        0yElpn3g/gYheHNWzWHUOaMtbnOEezRJ6Zg4NqVliushtUz0XgdVcqrkVMk/m5JzUvagf/nIt1rl
+        dqM2sp+qo8LVxbOvN2rZq72UfAfkppInpiUrueLaZqgETM9ywmak1O+0r8GM6xzVb6rfVL+pflP9
+        /mz6LUjcQd9hLY2sql9xOaJfXeuXdVN7bCsSv9+TBu9Dbj1pkJT2gUf7LccdDMaWy+iB681TCnja
+        NzPGtW4tIBl8pmIxW1x9qcRZfqfmhVUm+qjF4uAqCStwZ/5GIj63EbH+svoyzHtfQNtSvcXQya5v
+        zHz/HwAAAP//AwDl5pcKUG0AAA==
+    headers:
+      Alt-Svc:
+      - clear
+      Transfer-Encoding:
+      - chunked
+      Via:
+      - HTTP/2 edgeproxy, 1.1 google
+      access-control-allow-credentials:
+      - 'true'
+      access-control-allow-headers:
+      - Accept, App-Platform, Authorization, Content-Type, Origin, Retry-After, Spotify-App-Version,
+        X-Cloud-Trace-Context, client-token, content-access-token
+      access-control-allow-methods:
+      - GET, POST, OPTIONS, PUT, DELETE, PATCH
+      access-control-allow-origin:
+      - '*'
+      access-control-max-age:
+      - '604800'
+      cache-control:
+      - public, max-age=72605
+      content-encoding:
+      - gzip
+      content-type:
+      - application/json; charset=utf-8
+      date:
+      - Fri, 22 Oct 2021 19:20:02 GMT
+      server:
+      - envoy
+      strict-transport-security:
+      - max-age=31536000
+      x-content-type-options:
+      - nosniff
+      x-robots-tag:
+      - noindex, nofollow
+    status:
+      code: 200
+      message: OK
+- request:
+    body: '{"query": "USUM70840511", "params": "EgWKAQIIAWoMEA4QChADEAQQCRAF", "context":
+      {"client": {"clientName": "WEB_REMIX", "clientVersion": "0.1", "hl": "en"},
+      "user": {}}}'
+    headers:
+      Connection:
+      - keep-alive
+      Content-Length:
+      - '167'
+      Cookie:
+      - CONSENT=PENDING+966
+      X-Goog-Visitor-Id:
+      - CgtBdFYyVE9fQmcxMCjMnMyLBg%3D%3D
+      accept:
+      - '*/*'
+      accept-encoding:
+      - gzip, deflate
+      content-encoding:
+      - gzip
+      content-type:
+      - application/json
+      origin:
+      - https://music.youtube.com
+      user-agent:
+      - Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+    method: POST
+    uri: https://music.youtube.com/youtubei/v1/search?alt=json&key=AIzaSyC9XL3ZjWddXya6X74dJoCTL-WEYFDNX30
+  response:
+    body:
+      string: !!binary |
+        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
+    headers:
+      Alt-Svc:
+      - h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443";
+        ma=2592000,h3-Q043=":443"; ma=2592000
+      Cache-Control:
+      - private
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json; charset=UTF-8
+      Date:
+      - Fri, 22 Oct 2021 19:20:03 GMT
+      Server:
+      - ESF
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Origin
+      - X-Origin
+      - Referer
+      X-Content-Type-Options:
+      - nosniff
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-XSS-Protection:
+      - '0'
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like
+        Gecko) Chrome/87.0.4280.141 Safari/537.36
+    method: GET
+    uri: https://www.musixmatch.com/search/Heartless%20-%20Kanye%20West
+  response:
+    body:
+      string: Found. Redirecting to /verify-user?redirect=%2Fsearch%2FHeartless%2520-%2520Kanye%2520West
+    headers:
+      Accept-Ranges:
+      - bytes
+      Connection:
+      - keep-alive
+      Content-Length:
+      - '90'
+      Content-Type:
+      - text/plain; charset=utf-8
+      Date:
+      - Fri, 22 Oct 2021 19:20:04 GMT
+      GEOIP_CITY:
+      - Warsaw
+      GEOIP_CITY_COUNTRY_CODE:
+      - PL
+      GEOIP_CITY_COUNTRY_NAME:
+      - Poland
+      GEOIP_LATITUDE:
+      - '52.249'
+      GEOIP_LONGITUDE:
+      - '21.002'
+      GEOIP_REGION:
+      - '78'
+      Location:
+      - /verify-user?redirect=%2Fsearch%2FHeartless%2520-%2520Kanye%2520West
+      Set-Cookie:
+      - mxm_bab=AB; Expires=Mon, 20 Oct 2031 19:20:04 GMT; Path=/
+      Vary:
+      - Accept, X-User-Agent, X-User-Agent
+      Via:
+      - 1.1 varnish, 1.1 varnish
+      X-Cache:
+      - MISS, MISS
+      X-Cache-Hits:
+      - 0, 0
+      X-Powered-By:
+      - Express
+      X-Served-By:
+      - cache-dca17763-DCA, cache-hhn4068-HHN
+      X-Timer:
+      - S1634930403.366519,VS0,VE1220
+    status:
+      code: 302
+      message: Found
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      Cookie:
+      - mxm_bab=AB
+      User-Agent:
+      - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like
+        Gecko) Chrome/87.0.4280.141 Safari/537.36
+    method: GET
+    uri: https://www.musixmatch.com/verify-user?redirect=%2Fsearch%2FHeartless%2520-%2520Kanye%2520West
+  response:
+    body:
+      string: "<html>\n  <head>\n    <meta charset=\"utf-8\" />\n    <title>Musixmatch
+        - Song Lyrics and Translations</title>\n    <meta name=\"viewport\" content=\"width=device-width,
+        initial-scale=1.0, maximum-scale=1.0\" />\n     <script src=\"https://www.google.com/recaptcha/api.js\"
+        async defer></script>\n     <script>\n      mxmCaptchaCallback = function()
+        {\n          document.forms.captcha.submit();\n      }\n     </script>\n     <style>\n
+        \     html,\n      body {\n        padding: 0;\n        margin: 0;\n        font-family:
+        Helvetica Neue, Helvetica, sans-serif;\n        line-height: 1.5;\n        color:
+        #304151;\n      }\n      h1,h2,h3,h4 {\n        margin: 0;\n        padding:
+        0;\n        line-height: 1.25;\n      }\n      .mxm-human-verify {\n        margin:
+        0 auto;\n        max-width: 720px;\n        padding: 40px 0;\n        position:
+        relative;\n        padding: 20px;\n      }\n      .mxm-verify-robot-icon {\n
+        \       position: absolute;\n        right: 0;\n        top: 160px;\n      }\n
+        \     .mxm-logo {\n        text-align: center;\n        display: block;\n
+        \     }\n      .mxm-verify-headline {\n        margin-top: -40px !important;\n
+        \       font-size: 52px;\n        margin-bottom: 50px;\n      }\n      .mxm-verify-headline__quote
+        {\n        display: block;\n        font-size: 64px;\n      }\n      .mxm-verify-msg
+        {\n        font-size: 18px;\n        color: #5f6d7b;\n        margin-bottom:
+        40px;\n      }\n      .mxm-verify-form {\n        padding-top: 40px;\n        text-align:
+        center;\n        border-top: 1px solid #efefef;\n        margin: 0 auto;\n
+        \       width: 304px;\n      }\n\n\n     </style>\n  </head>\n  <body>\n    <div
+        class=\"mxm-human-verify\">\n      <a class=\"mxm-logo\" href=\"/\"><img src=\"https://s.mxmcdn.net/site/images/menu-logo@2x.png\"
+        alt=\"musixmatch\" width=140></a>\n      <br/><br/>\n      <span class=\"mxm-verify-headline__quote\">\u201F</span>\n
+        \     <div class=\"mxm-verify-robot-icon\">\n        <?xml version=\"1.0\"
+        encoding=\"UTF-8\" standalone=\"no\"?>\n<svg width=\"112px\" height=\"120px\"
+        viewBox=\"0 0 112 120\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\"
+        xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:sketch=\"http://www.bohemiancoding.com/sketch/ns\">\n
+        \   <g id=\"I'm-not-a-robot\" stroke=\"none\" stroke-width=\"1\" fill=\"none\"
+        fill-rule=\"evenodd\" sketch:type=\"MSPage\">\n        <g id=\"not-robot\"
+        sketch:type=\"MSArtboardGroup\" transform=\"translate(-858.000000, -153.000000)\"
+        fill=\"#D5D9DD\" opacity=\"0.599999964\">\n            <path d=\"M962.597647,200.542342
+        L959.614706,189.950301 C958.680784,187.885272 957.681078,186.151278 955.057794,185.937654
+        C952.627549,170.009912 936.782696,153.040143 915,153.040143 C893.106225,153.040143
+        877.191275,170.013717 874.758333,185.94309 C872.074118,186.206178 871.102451,188.361441
+        870.351863,190.042708 L867.401275,200.543429 C863.276814,200.800539 860,204.264178
+        860,208.48447 L860,223.095681 C860,227.483936 863.54049,231.055203 867.894118,231.055203
+        L870.107059,231.055203 L871.798578,237.876486 C872.465049,240.394311 874.248235,241.844561
+        876.842941,241.998935 C883.339412,261.670256 891.080931,271.234946 900.505882,271.234946
+        L929.494118,271.234946 C938.919069,271.234946 946.662206,261.670256 953.15598,241.998935
+        C955.751765,241.843474 957.534951,240.394311 958.2025,237.866159 L959.892941,231.055203
+        L962.104265,231.055203 C966.458431,231.055203 970,227.485567 970,223.095681
+        L970,208.48447 C970,204.264178 966.723725,200.800539 962.597647,200.542342
+        L962.597647,200.542342 Z M899.633431,266.225932 C893.469657,265.488849 887.387304,256.965099
+        882.380147,242.011981 L892.770833,242.011981 L899.633431,266.225932 L899.633431,266.225932
+        Z M931.722696,242.011981 L925.016471,266.278115 L904.983529,266.278115 L898.277304,242.011981
+        L931.722696,242.011981 L931.722696,242.011981 Z M947.619314,242.011981 C942.613775,256.965099
+        936.530343,265.487761 930.367647,266.225932 L937.229167,242.011981 L947.619314,242.011981
+        L947.619314,242.011981 Z M915,157.997518 C935.108971,157.997518 947.439216,174.06224
+        950.077059,185.915367 L879.912696,185.915367 C882.344559,174.375337 894.837647,157.997518
+        915,157.997518 L915,157.997518 Z M954.573039,231.055203 L953.085882,237.055693
+        L876.915735,237.055693 L875.426961,231.055203 L954.573039,231.055203 L954.573039,231.055203
+        Z M864.917647,208.48447 C864.917647,206.82875 866.253284,205.483954 867.894118,205.483954
+        L870.970343,205.483954 L874.377647,226.096198 L867.894118,226.096198 C866.253284,226.096198
+        864.917647,224.751401 864.917647,223.095681 L864.917647,208.48447 L864.917647,208.48447
+        Z M872.735196,200.528209 L875.449069,190.87383 L954.552549,190.87383 L957.264804,200.528209
+        L872.735196,200.528209 L872.735196,200.528209 Z M879.493186,226.096198 L876.085882,205.483954
+        L953.914118,205.483954 L950.505196,226.096198 L879.493186,226.096198 L879.493186,226.096198
+        Z M962.104265,226.096198 L955.622353,226.096198 L959.031275,205.483954 L962.104265,205.483954
+        C963.746716,205.483954 965.082353,206.82875 965.082353,208.48447 L965.082353,223.095681
+        C965.082353,224.751401 963.746716,226.096198 962.104265,226.096198 Z M907.752941,252.970389
+        L922.24652,252.970389 C923.694853,252.970389 924.705882,251.951736 924.705882,250.492789
+        C924.705882,249.034386 923.694853,248.015732 922.24652,248.015732 L907.752941,248.015732
+        C906.304608,248.015732 905.294118,249.034386 905.294118,250.492789 C905.294118,251.951736
+        906.304608,252.970389 907.752941,252.970389 Z\" id=\"daftpunk-icon\" sketch:type=\"MSShapeGroup\"
+        transform=\"translate(915.000000, 212.137545) rotate(10.000000) translate(-915.000000,
+        -212.137545) \"></path>\n        </g>\n    </g>\n</svg>\n      </div>\n      <h1
+        class=\"mxm-verify-headline\">\n        We are human after all\n        <br/>\n
+        \       <span className=\"mxm-verify-track\" style=\"font-size:13px;color:\">\n
+        \       Human After All <br/> DAFT PUNK\n        </span>\n      </h1>\n      <p
+        class=\"mxm-verify-msg\">\n        We detected that your IP is blocked.<br/>\n
+        \       It looks like you're a bot or more likely your network may have been
+        blacklisted for some reason.\n        Please confirm you are a human by checking
+        the box below.\n      </p>\n      <form class=\"mxm-verify-form\" action=\"?\"
+        id=\"captcha\" method=\"POST\">\n        <div class=\"g-recaptcha\" data-callback=\"mxmCaptchaCallback\"
+        data-sitekey=\"6LcJjQoTAAAAAKd6014UF3baDSR0rkTthD1Dev1j\"></div>\n\n          <input
+        type=\"hidden\" name=\"referer\" value=\"/search/Heartless%20-%20Kanye%20West\">\n\n
+        \     </form>\n    </div>\n  </body>\n</html>\n"
+    headers:
+      Accept-Ranges:
+      - bytes
+      Connection:
+      - keep-alive
+      Content-Length:
+      - '6339'
+      Content-Type:
+      - text/html; charset=utf-8
+      Date:
+      - Fri, 22 Oct 2021 19:20:04 GMT
+      ETag:
+      - W/"18c3-lP9T2iCjcoekWpnSu4wQHqoS6OI"
+      GEOIP_CITY:
+      - Warsaw
+      GEOIP_CITY_COUNTRY_CODE:
+      - PL
+      GEOIP_CITY_COUNTRY_NAME:
+      - Poland
+      GEOIP_LATITUDE:
+      - '52.249'
+      GEOIP_LONGITUDE:
+      - '21.002'
+      GEOIP_REGION:
+      - '78'
+      Set-Cookie:
+      - musixmatchUserGuid=7932c897-9f92-4cb2-956a-5587bb8cf8c6; expires=Tue, 09 Mar
+        2049 19:20:04 GMT; path=/
+      Vary:
+      - Accept-Encoding
+      Via:
+      - 1.1 varnish, 1.1 varnish
+      X-Cache:
+      - MISS, MISS
+      X-Cache-Hits:
+      - 0, 0
+      X-Powered-By:
+      - Express
+      X-Served-By:
+      - cache-dca17765-DCA, cache-hhn4068-HHN
+      X-Timer:
+      - S1634930405.631670,VS0,VE97
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like
+        Gecko) Chrome/87.0.4280.141 Safari/537.36
+    method: GET
+    uri: https://www.musixmatch.com/search/Heartless%20-%20Kanye%20West/tracks
+  response:
+    body:
+      string: Found. Redirecting to /verify-user?redirect=%2Fsearch%2FHeartless%2520-%2520Kanye%2520West%2Ftracks
+    headers:
+      Accept-Ranges:
+      - bytes
+      Connection:
+      - keep-alive
+      Content-Length:
+      - '99'
+      Content-Type:
+      - text/plain; charset=utf-8
+      Date:
+      - Fri, 22 Oct 2021 19:20:05 GMT
+      GEOIP_CITY:
+      - Warsaw
+      GEOIP_CITY_COUNTRY_CODE:
+      - PL
+      GEOIP_CITY_COUNTRY_NAME:
+      - Poland
+      GEOIP_LATITUDE:
+      - '52.249'
+      GEOIP_LONGITUDE:
+      - '21.002'
+      GEOIP_REGION:
+      - '78'
+      Location:
+      - /verify-user?redirect=%2Fsearch%2FHeartless%2520-%2520Kanye%2520West%2Ftracks
+      Set-Cookie:
+      - mxm_bab=BB; Expires=Mon, 20 Oct 2031 19:20:05 GMT; Path=/
+      Vary:
+      - Accept, X-User-Agent, X-User-Agent
+      Via:
+      - 1.1 varnish, 1.1 varnish
+      X-Cache:
+      - MISS, MISS
+      X-Cache-Hits:
+      - 0, 0
+      X-Powered-By:
+      - Express
+      X-Served-By:
+      - cache-dca17726-DCA, cache-hhn4082-HHN
+      X-Timer:
+      - S1634930405.911691,VS0,VE730
+    status:
+      code: 302
+      message: Found
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      Cookie:
+      - mxm_bab=BB
+      User-Agent:
+      - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like
+        Gecko) Chrome/87.0.4280.141 Safari/537.36
+    method: GET
+    uri: https://www.musixmatch.com/verify-user?redirect=%2Fsearch%2FHeartless%2520-%2520Kanye%2520West%2Ftracks
+  response:
+    body:
+      string: "<html>\n  <head>\n    <meta charset=\"utf-8\" />\n    <title>Musixmatch
+        - Song Lyrics and Translations</title>\n    <meta name=\"viewport\" content=\"width=device-width,
+        initial-scale=1.0, maximum-scale=1.0\" />\n     <script src=\"https://www.google.com/recaptcha/api.js\"
+        async defer></script>\n     <script>\n      mxmCaptchaCallback = function()
+        {\n          document.forms.captcha.submit();\n      }\n     </script>\n     <style>\n
+        \     html,\n      body {\n        padding: 0;\n        margin: 0;\n        font-family:
+        Helvetica Neue, Helvetica, sans-serif;\n        line-height: 1.5;\n        color:
+        #304151;\n      }\n      h1,h2,h3,h4 {\n        margin: 0;\n        padding:
+        0;\n        line-height: 1.25;\n      }\n      .mxm-human-verify {\n        margin:
+        0 auto;\n        max-width: 720px;\n        padding: 40px 0;\n        position:
+        relative;\n        padding: 20px;\n      }\n      .mxm-verify-robot-icon {\n
+        \       position: absolute;\n        right: 0;\n        top: 160px;\n      }\n
+        \     .mxm-logo {\n        text-align: center;\n        display: block;\n
+        \     }\n      .mxm-verify-headline {\n        margin-top: -40px !important;\n
+        \       font-size: 52px;\n        margin-bottom: 50px;\n      }\n      .mxm-verify-headline__quote
+        {\n        display: block;\n        font-size: 64px;\n      }\n      .mxm-verify-msg
+        {\n        font-size: 18px;\n        color: #5f6d7b;\n        margin-bottom:
+        40px;\n      }\n      .mxm-verify-form {\n        padding-top: 40px;\n        text-align:
+        center;\n        border-top: 1px solid #efefef;\n        margin: 0 auto;\n
+        \       width: 304px;\n      }\n\n\n     </style>\n  </head>\n  <body>\n    <div
+        class=\"mxm-human-verify\">\n      <a class=\"mxm-logo\" href=\"/\"><img src=\"https://s.mxmcdn.net/site/images/menu-logo@2x.png\"
+        alt=\"musixmatch\" width=140></a>\n      <br/><br/>\n      <span class=\"mxm-verify-headline__quote\">\u201F</span>\n
+        \     <div class=\"mxm-verify-robot-icon\">\n        <?xml version=\"1.0\"
+        encoding=\"UTF-8\" standalone=\"no\"?>\n<svg width=\"112px\" height=\"120px\"
+        viewBox=\"0 0 112 120\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\"
+        xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:sketch=\"http://www.bohemiancoding.com/sketch/ns\">\n
+        \   <g id=\"I'm-not-a-robot\" stroke=\"none\" stroke-width=\"1\" fill=\"none\"
+        fill-rule=\"evenodd\" sketch:type=\"MSPage\">\n        <g id=\"not-robot\"
+        sketch:type=\"MSArtboardGroup\" transform=\"translate(-858.000000, -153.000000)\"
+        fill=\"#D5D9DD\" opacity=\"0.599999964\">\n            <path d=\"M962.597647,200.542342
+        L959.614706,189.950301 C958.680784,187.885272 957.681078,186.151278 955.057794,185.937654
+        C952.627549,170.009912 936.782696,153.040143 915,153.040143 C893.106225,153.040143
+        877.191275,170.013717 874.758333,185.94309 C872.074118,186.206178 871.102451,188.361441
+        870.351863,190.042708 L867.401275,200.543429 C863.276814,200.800539 860,204.264178
+        860,208.48447 L860,223.095681 C860,227.483936 863.54049,231.055203 867.894118,231.055203
+        L870.107059,231.055203 L871.798578,237.876486 C872.465049,240.394311 874.248235,241.844561
+        876.842941,241.998935 C883.339412,261.670256 891.080931,271.234946 900.505882,271.234946
+        L929.494118,271.234946 C938.919069,271.234946 946.662206,261.670256 953.15598,241.998935
+        C955.751765,241.843474 957.534951,240.394311 958.2025,237.866159 L959.892941,231.055203
+        L962.104265,231.055203 C966.458431,231.055203 970,227.485567 970,223.095681
+        L970,208.48447 C970,204.264178 966.723725,200.800539 962.597647,200.542342
+        L962.597647,200.542342 Z M899.633431,266.225932 C893.469657,265.488849 887.387304,256.965099
+        882.380147,242.011981 L892.770833,242.011981 L899.633431,266.225932 L899.633431,266.225932
+        Z M931.722696,242.011981 L925.016471,266.278115 L904.983529,266.278115 L898.277304,242.011981
+        L931.722696,242.011981 L931.722696,242.011981 Z M947.619314,242.011981 C942.613775,256.965099
+        936.530343,265.487761 930.367647,266.225932 L937.229167,242.011981 L947.619314,242.011981
+        L947.619314,242.011981 Z M915,157.997518 C935.108971,157.997518 947.439216,174.06224
+        950.077059,185.915367 L879.912696,185.915367 C882.344559,174.375337 894.837647,157.997518
+        915,157.997518 L915,157.997518 Z M954.573039,231.055203 L953.085882,237.055693
+        L876.915735,237.055693 L875.426961,231.055203 L954.573039,231.055203 L954.573039,231.055203
+        Z M864.917647,208.48447 C864.917647,206.82875 866.253284,205.483954 867.894118,205.483954
+        L870.970343,205.483954 L874.377647,226.096198 L867.894118,226.096198 C866.253284,226.096198
+        864.917647,224.751401 864.917647,223.095681 L864.917647,208.48447 L864.917647,208.48447
+        Z M872.735196,200.528209 L875.449069,190.87383 L954.552549,190.87383 L957.264804,200.528209
+        L872.735196,200.528209 L872.735196,200.528209 Z M879.493186,226.096198 L876.085882,205.483954
+        L953.914118,205.483954 L950.505196,226.096198 L879.493186,226.096198 L879.493186,226.096198
+        Z M962.104265,226.096198 L955.622353,226.096198 L959.031275,205.483954 L962.104265,205.483954
+        C963.746716,205.483954 965.082353,206.82875 965.082353,208.48447 L965.082353,223.095681
+        C965.082353,224.751401 963.746716,226.096198 962.104265,226.096198 Z M907.752941,252.970389
+        L922.24652,252.970389 C923.694853,252.970389 924.705882,251.951736 924.705882,250.492789
+        C924.705882,249.034386 923.694853,248.015732 922.24652,248.015732 L907.752941,248.015732
+        C906.304608,248.015732 905.294118,249.034386 905.294118,250.492789 C905.294118,251.951736
+        906.304608,252.970389 907.752941,252.970389 Z\" id=\"daftpunk-icon\" sketch:type=\"MSShapeGroup\"
+        transform=\"translate(915.000000, 212.137545) rotate(10.000000) translate(-915.000000,
+        -212.137545) \"></path>\n        </g>\n    </g>\n</svg>\n      </div>\n      <h1
+        class=\"mxm-verify-headline\">\n        We are human after all\n        <br/>\n
+        \       <span className=\"mxm-verify-track\" style=\"font-size:13px;color:\">\n
+        \       Human After All <br/> DAFT PUNK\n        </span>\n      </h1>\n      <p
+        class=\"mxm-verify-msg\">\n        We detected that your IP is blocked.<br/>\n
+        \       It looks like you're a bot or more likely your network may have been
+        blacklisted for some reason.\n        Please confirm you are a human by checking
+        the box below.\n      </p>\n      <form class=\"mxm-verify-form\" action=\"?\"
+        id=\"captcha\" method=\"POST\">\n        <div class=\"g-recaptcha\" data-callback=\"mxmCaptchaCallback\"
+        data-sitekey=\"6LcJjQoTAAAAAKd6014UF3baDSR0rkTthD1Dev1j\"></div>\n\n          <input
+        type=\"hidden\" name=\"referer\" value=\"/search/Heartless%20-%20Kanye%20West/tracks\">\n\n
+        \     </form>\n    </div>\n  </body>\n</html>\n"
+    headers:
+      Accept-Ranges:
+      - bytes
+      Connection:
+      - keep-alive
+      Content-Length:
+      - '6346'
+      Content-Type:
+      - text/html; charset=utf-8
+      Date:
+      - Fri, 22 Oct 2021 19:20:05 GMT
+      ETag:
+      - W/"18ca-iDV23YtpJtEsZPbmL1qaOmTj09c"
+      GEOIP_CITY:
+      - Warsaw
+      GEOIP_CITY_COUNTRY_CODE:
+      - PL
+      GEOIP_CITY_COUNTRY_NAME:
+      - Poland
+      GEOIP_LATITUDE:
+      - '52.249'
+      GEOIP_LONGITUDE:
+      - '21.002'
+      GEOIP_REGION:
+      - '78'
+      Set-Cookie:
+      - musixmatchUserGuid=36b2cc31-f43d-4142-9b95-f1be01427a9a; expires=Tue, 09 Mar
+        2049 19:20:05 GMT; path=/
+      Vary:
+      - Accept-Encoding
+      Via:
+      - 1.1 varnish, 1.1 varnish
+      X-Cache:
+      - MISS, MISS
+      X-Cache-Hits:
+      - 0, 0
+      X-Powered-By:
+      - Express
+      X-Served-By:
+      - cache-dca17751-DCA, cache-hhn4082-HHN
+      X-Timer:
+      - S1634930406.686048,VS0,VE99
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Authorization:
+      - Bearer BQBjXTkWDqZSM5LBXmnnjNmgd6G43iNiKTni8W1mriEGpuuEz6zHA2ovAPCO2NFT3mmhad8J_PuRDC6BmfE
+      Connection:
+      - keep-alive
+      Content-Type:
+      - application/json
+      User-Agent:
+      - python-requests/2.26.0
+    method: GET
+    uri: https://api.spotify.com/v1/tracks/2SiXAy7TuUkycRVbbWDEpo
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAAOyWW1PqWBCF3+dXUDzrIQkQLlVTUxAuIgkHSfA2NUWFZCMZA6SSoHJO+d8HvgRR
+        RxTPedWHVbJ39+rVzaa7f/6RyWRtf7ycZTPVzM/1p+3nUbwKxOYwvT5K78LYi+Joc/F3ar8+FQ+x
+        COe2P1qGfrRj4i4KFrE3WUE1jeMgquZyi0DMv6UX35zFLJfQ5kqybGiOWGl1pzX/8W/7qnBWGs6z
+        Kdnj0TbeNBSTF4R24L3gu5NTymgf5xOX58L0kdncniXlqGm5hrY735WJeLuLZehxnsqqJvfV91J8
+        zPyzLfOd7fn22BejmR3eim3Bs7VG9miNTbAN6qABfgcHoAUOwesN1mtgHYSnDk+9BcJWPwE74CnY
+        A2Guw1w3QfjrF+AVSBSNKBo8GjwaCjUUavBo8GjnIAwaDBoMDVQ1iN7ogvg28G1g09RALJsob6Kq
+        RcQWvi28WsRqo6pN7m1yb+PbRmcbyzaZts/AxIsc2yhso/AEPSdYnmBzgs0Jde7A3IG5Q9YdLDto
+        62B5SqxTcjntb7CLfZcsuujpkkUXyy4MXWJ1UdKlAjoZ6WSkUw0dLx2FOvY6cXXi6ijUqbmBr4GX
+        gWYDDQYaDDQY8BhkYaDBQLMBswGnAaeRcKLNuASplYHOHrF68Pfg76GzB3MPzh516MHcw+s7uffx
+        7ePbx7ePtj7a+jD0ybGPnj4a+kQ/w3cA/wCbAWoH2JjcmlTPpA4mUUyimCg0iWISxUSPSR1MdJpE
+        NMndRLNFJS0YLHRa+Fp4WSix8LXwtfC10GPBMETVEIYhmofkMuT2HJ3nsJ2TywU2l+i8xvcandcX
+        2adOsrc1H9iYN80/p86Grmhca1HzYXWqG25t0ljeT9OmlQY6qCdv2KJ9dClR2pA/MJrZN+L1GJoK
+        72Yabw7VgvSsEfsvdK1VOe58LSkHSc4eqyVVVl1p/TdWSnlpXJQnZbciT/K2IotyQVHzqmyLXWu/
+        99x4moZJa/CWiLz0ayJkISmfELEO844ItfBLGgrlovypQrwaYE/jsm47t5nOPFP31/9sv71Q+MKO
+        xMi148RKrpSlY6l0rBTfMhkFoXC8yFvMMXbt1dYqXsTrpx2Ha24egyxtL97cXv43kzeX1f2vm7f9
+        1s7z2z+rj/edT/2uDtl1Dtp03t5z9mw5n99x0gfytd987Tdf+83XfvO7+03W9SJnNF/OxiKk/SeH
+        y9CO18NiNKOtKLIkl/LciIfA9xyPwTix/Uikp2kv99xnrTzrRaGTdMJhrS+VmYql3VTYMwEO6/9M
+        rJxiepe1VclaDm9XzuB8PL5oNIPFLsQhrT+ZffuooEn7/rsm0chfOLb/sjBPs+BqscyY08XiNmOI
+        TM33M73NepHRF/ObxD9YBEvfDr2YvMtSchiKO0/cj17vHcHT3jEL8sepVU6xFUmaqErZKcgT23XX
+        31lB2CVVzU/yZUktVsaVvFtW1L8cz/2zOCmW8k5FVaRCpTC2RblUrkiONJHKtioplXyiito8ex6l
+        5HQ7y7hOLF8PMq6q+76fx/8AAAD//wMA5Z3EHzcRAAA=
+    headers:
+      Alt-Svc:
+      - clear
+      Transfer-Encoding:
+      - chunked
+      Via:
+      - HTTP/2 edgeproxy, 1.1 google
+      access-control-allow-credentials:
+      - 'true'
+      access-control-allow-headers:
+      - Accept, App-Platform, Authorization, Content-Type, Origin, Retry-After, Spotify-App-Version,
+        X-Cloud-Trace-Context, client-token, content-access-token
+      access-control-allow-methods:
+      - GET, POST, OPTIONS, PUT, DELETE, PATCH
+      access-control-allow-origin:
+      - '*'
+      access-control-max-age:
+      - '604800'
+      cache-control:
+      - public, max-age=73880
+      content-encoding:
+      - gzip
+      content-type:
+      - application/json; charset=utf-8
+      date:
+      - Fri, 22 Oct 2021 19:20:05 GMT
+      server:
+      - envoy
+      strict-transport-security:
+      - max-age=31536000
+      x-content-type-options:
+      - nosniff
+      x-robots-tag:
+      - noindex, nofollow
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Authorization:
+      - Bearer BQBjXTkWDqZSM5LBXmnnjNmgd6G43iNiKTni8W1mriEGpuuEz6zHA2ovAPCO2NFT3mmhad8J_PuRDC6BmfE
+      Connection:
+      - keep-alive
+      Content-Type:
+      - application/json
+      User-Agent:
+      - python-requests/2.26.0
+    method: GET
+    uri: https://api.spotify.com/v1/artists/711MCceyCBcFnzjGY4Q7Un
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAAJySQU/DIBiG7/6KpudlLRuFrTet0ZMHDx6MMYZSuqIMCKXOuey/SylrXMzMsl4a
+        Xj7e53vh211FUcy+LDOSiLfOiDaO8mjnVKe3Wlleb3slbqzVbZ4kSjM5DRtTqtYJMZa3NsEAPBSU
+        bYsbeie/3++f4SN+krEz2k96Rq2EUBtmfvs3htX9UnZCTAbJKktEr83SJYIY4NFgxaRh/vRLFJOu
+        tYYITmRkFP2IJ86MmGpc+H/06g8eKGMEovlRgk8QQrSnUngfXnmXf0vWZHXo8ZCR8VVjewnBNIR0
+        13zUkGuHVtL1kniDhJQII4BA6j6WsZJCinEGl+kyowtEaAkZxuUcx8FvwyvbBIS/r7/w+ewSeAYw
+        PBvuECfgAF0CrwFenA13iB4enlySNfOc6yK5LYa30Up3ghhu/TwvoBftVg+FwwAMlZ3hXgszkg97
+        +akJ3/8AAAD//wMAJHhZYUQDAAA=
+    headers:
+      Alt-Svc:
+      - clear
+      Transfer-Encoding:
+      - chunked
+      Via:
+      - HTTP/2 edgeproxy, 1.1 google
+      access-control-allow-credentials:
+      - 'true'
+      access-control-allow-headers:
+      - Accept, App-Platform, Authorization, Content-Type, Origin, Retry-After, Spotify-App-Version,
+        X-Cloud-Trace-Context, client-token, content-access-token
+      access-control-allow-methods:
+      - GET, POST, OPTIONS, PUT, DELETE, PATCH
+      access-control-allow-origin:
+      - '*'
+      access-control-max-age:
+      - '604800'
+      cache-control:
+      - public, max-age=77342
+      content-encoding:
+      - gzip
+      content-type:
+      - application/json; charset=utf-8
+      date:
+      - Fri, 22 Oct 2021 19:20:05 GMT
+      server:
+      - envoy
+      strict-transport-security:
+      - max-age=31536000
+      x-content-type-options:
+      - nosniff
+      x-robots-tag:
+      - noindex, nofollow
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Authorization:
+      - Bearer BQBjXTkWDqZSM5LBXmnnjNmgd6G43iNiKTni8W1mriEGpuuEz6zHA2ovAPCO2NFT3mmhad8J_PuRDC6BmfE
+      Connection:
+      - keep-alive
+      Content-Type:
+      - application/json
+      User-Agent:
+      - python-requests/2.26.0
+    method: GET
+    uri: https://api.spotify.com/v1/albums/6mUdeDZCsExyJLMdAfDuwh
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAAOyca0/byhaGv+9fYfHhXKS2mfFlbCNVWySBEIjTkAsUjo7Q2B4TF8dOY4c2bPW/
+        H/t1CIWQhJNs8YVppQWdWetda2bCzFNj+68/FGWPR+50dJ3NxmJP2Z//c+8DeiZZmGZp0fwf5a+8
+        JW8TPzMxiXl0PZ1E6Cnb8550nGRhMIPIMMvG6X6lkoxF/Gne8clLRpVSsmJS6tQ8MatVvaP4/lvj
+        Uj8zB/EepH59KDMNJyJ4IsbH4ROtOzqXS1fpzZVCHzrrnWI+KifgoFap1x5aH6cFmR6ap5MQrfNy
+        9sve/dXD+qX8t5zSOx5G3I3E9YhPbsXD5O4d1Pc+5PYQtgHbgnVgv8B2YfuwA9irwlYPYKuw0KlC
+        p3oEC7XqMWwT9gS2DQvlKpSrPVjoVy9gL2GRpYYsNejUoFNDhTVUWINODTq1c1go1KBQg0IdVdWR
+        vX4Ki9g6YuvwOazBwvMQlR+iqiNkPELsEaKOkKuBqhoYewNjbyC2gTob8GxgpI0z2DIKY2ygwgYq
+        PEY9x/A8hs8xfI4xz00oN6HcxKib8GyitiY8T5DrBGM56RT2FP6nGMUp6jnFKE7heQqFU+Q6RSWn
+        mIEWRtTCiFqYjRaiWqiwBf8W8raQt4UKW5hzB7EOohzU7KAGBzU4qMGBjoNROKjBQc0OlB1oOtB0
+        Sk3U5nyFxVw5qLONXG3ot6HfRp1tKLeh2cY8tKHcRtQXjL2D2A5iO4jtoLYOautAoYMxdlBPBzV0
+        kP0MsV3od+HTRbVd+PTQ28Ps9TAPPWTpIUsPFfaQpYcsPdTTwzz0UGcPGXsYew819zGTfSj0UWcf
+        sX1E9VFJH7F9xPYR20c9fSgMUNUACgPUPMBYBug9R53nUDvHWC7g8xV1XiH2CnVeXezN9xEvGc8m
+        4c3w2e6c5dszNqZ/df6tUNsiSkuEfirGkQhjpTMRaSqU6qfzT0v7W+f3XWqxyeexj3v83nTswdey
+        mK7rlmVbOkXY06CnJ8Mrz4Xi1Kmw0cAX9ataevhzdtJy/IOgPv0xfExxI+J8COWIy0pfdUgU2ukq
+        ccjMT4i1LiN+I57O9lAUK1A0MZ0sToboST15NZ4f56VUIFDhLjMZZT7J/7iqqRHXoIHl2zTQuEqF
+        patMY5SLhwX6EfrZcJ4C87CcXCPbJKeCqK9OnqdYkZzpW+TWLYP+HwP/7ZOZn52izFNLounIDXm5
+        OovTu8q9W6UZK9Uo/6bsGyfjacQnYYbPoKWicSIiwVNx7fOsDCx+Wj4S86Nq7C05XI8nwgvTMInh
+        6vNZ6ZMlWf55zyZ5KnwyKCmbFw0P07Xrp7RSSv6ZBEEqss/kH1E4CrPPBlkgTiZGTz6cL+PbeoT7
+        WzHuN5T7e3Hu1Ui3GuvWoN12eIfBlh/Rcuol5knMk5gnMW83zMNe4oepdx3nZ52Y4Ix57JhOeJaf
+        Sdflzq9RVbW1Ra/4OY5CL8QhHfAoFb/1rNz/X7f74zCqMPvseKSNp2l2T2jtpPvDT1Ryv9gNF+le
+        s/GXx9sqyYXUA6Ztckuvo8Tj0fLQF6fBsYiiVKkW9jEuP+XvQvHj+jnKjBcoMxprH+deFaZ5ms0s
+        zfSoqVm+T01uctUlhsF126K+J0w90Fnwpxf6n43AMDXPZirRbd3lwjItm3gkIBZnJF+2xyIwFS+u
+        9+LAgstjxPPTCt3765ZnAXKSEiQlwEpKkJQgKeFdUIKZ/0/77SiB1CzSqI3JyJlW71uBdnjw9fvP
+        u50oYYXkc0rY6LaZEnrDJMmULFH6w0kYRduSgmrZvmUKm/m5sV2iWhp1/fzUFyw//IXBTMEN2xc7
+        koK6JSmsWyJJCpIUJClIUpCk8O5IQaWGob3l9YT+kLXrVvesM/sRzkQkvI7RCna7nvCy5NL1hE1u
+        m0nhYsgzpZ4ol8m0+BIkE8VJYjFTjgu7NTgQS83/Uqr5qqYFmhl4zFVV7mpCp5Zn+a7NAz3QdwQH
+        bUtwWLdiEhwkOEhwkOAgweEdggM1GXlDcJgczFQndQbcdb9P1fPZzcSNOruBw8uSS+CwyW0zODTC
+        uzBWsqHIseFG4Uo154VtcSHgAVMp17ltBUbgEt8WvmoZhso40QzbtKnu5kTg74gL+ra4sGadJC5I
+        XJC4IHFB4sL7w4XigHrD30gYX4WTXrp0cvHzrEXdwYBf8W/xTriwQvI5Lmx024wLLZEpjlA60/zL
+        TGkld0JpxhmuO2xLDdS3fZXpdpAzg6p6RqD7uuubJPBzlHBdQ6M00Dyu7kgNxpbUsG65JDVIapDU
+        IKlBUsN7pAb9Le92JNaooV3Su+jb5QFz7+qZfvH99ttu9zG8LLl0H8Mmt83UsPxQxBacYBDmejYv
+        Ht6wbWKbmq7bLtGZadpUEEZNXTOpau36ywi2JSesWyDJCZITJCdITpCc8P44gRJqviEnqL3w68HM
+        7E8HtzOve+66F/XDcbITJ6yQfM4JG902c0Jx90Jxz+NtcY3hIIqUdvGYp9JK4putb2HgKiEBUy1P
+        pwEvnpLQdMFNxrRAswgzbNfWfEtlO1KDuSU1rFsuSQ2SGiQ1SGqQ1PD+qEGz9Lf8nYTu16eTm35b
+        E43ZgNwM749OSJ/uRA0rJJ9Tw0a3VzxLye+EwpX6JIxvlSTO2WFbWBDM9wzb91XVMkxfBC73fOYR
+        33JJUNwFafmql3/Ld4QFa0tYWLdKEhYkLEhYkLAgYeH9wYJusLeEBdWpDUZj0rStm/SkOhIzsx5c
+        9Xa7xPCy5NIlhk1ur3mkkt8WtNASW19SsLnBfZXqxHIDpnNf01QtsAKTaZ7wTNdinmqqprbrbY72
+        tpcU1iyPpARJCZISJCVISnh/lMAY0d/yqYgTajq3zmh6Xw2bX751j5nzJd9DdqGEFZJLT0VscttM
+        Cd3Eu1V47CvdJIqUgzD+Z6a0kzAVSidvmBbTui096CoXRkBNYvkqs4McJZhnaZS6gelb1HI9zrhm
+        q8aur20iW+LDunVbnGF7eP8jbqt8ePdnPH/1azyNonlT+bbIovHBCZOQTNNnjniPZVn1Hw/vWn3p
+        heBLB2/Rtb/qra2//gcAAP//AwAucQAmX1wAAA==
+    headers:
+      Alt-Svc:
+      - clear
+      Transfer-Encoding:
+      - chunked
+      Via:
+      - HTTP/2 edgeproxy, 1.1 google
+      access-control-allow-credentials:
+      - 'true'
+      access-control-allow-headers:
+      - Accept, App-Platform, Authorization, Content-Type, Origin, Retry-After, Spotify-App-Version,
+        X-Cloud-Trace-Context, client-token, content-access-token
+      access-control-allow-methods:
+      - GET, POST, OPTIONS, PUT, DELETE, PATCH
+      access-control-allow-origin:
+      - '*'
+      access-control-max-age:
+      - '604800'
+      cache-control:
+      - public, max-age=73165
+      content-encoding:
+      - gzip
+      content-type:
+      - application/json; charset=utf-8
+      date:
+      - Fri, 22 Oct 2021 19:20:05 GMT
+      server:
+      - envoy
+      strict-transport-security:
+      - max-age=31536000
+      x-content-type-options:
+      - nosniff
+      x-robots-tag:
+      - noindex, nofollow
+    status:
+      code: 200
+      message: OK
+- request:
+    body: '{"query": "AUAP08000047", "params": "EgWKAQIIAWoMEA4QChADEAQQCRAF", "context":
+      {"client": {"clientName": "WEB_REMIX", "clientVersion": "0.1", "hl": "en"},
+      "user": {}}}'
+    headers:
+      Connection:
+      - keep-alive
+      Content-Length:
+      - '167'
+      Cookie:
+      - CONSENT=PENDING+966
+      X-Goog-Visitor-Id:
+      - CgtBdFYyVE9fQmcxMCjMnMyLBg%3D%3D
+      accept:
+      - '*/*'
+      accept-encoding:
+      - gzip, deflate
+      content-encoding:
+      - gzip
+      content-type:
+      - application/json
+      origin:
+      - https://music.youtube.com
+      user-agent:
+      - Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+    method: POST
+    uri: https://music.youtube.com/youtubei/v1/search?alt=json&key=AIzaSyC9XL3ZjWddXya6X74dJoCTL-WEYFDNX30
+  response:
+    body:
+      string: !!binary |
+        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
+    headers:
+      Alt-Svc:
+      - h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443";
+        ma=2592000,h3-Q043=":443"; ma=2592000
+      Cache-Control:
+      - private
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json; charset=UTF-8
+      Date:
+      - Fri, 22 Oct 2021 19:20:06 GMT
+      Server:
+      - ESF
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Origin
+      - X-Origin
+      - Referer
+      X-Content-Type-Options:
+      - nosniff
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-XSS-Protection:
+      - '0'
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like
+        Gecko) Chrome/87.0.4280.141 Safari/537.36
+    method: GET
+    uri: https://www.musixmatch.com/search/You%20Shook%20Me%20All%20Night%20Long%20-%20AC%2FDC
+  response:
+    body:
+      string: Found. Redirecting to /verify-user?redirect=%2Fsearch%2FYou%2520Shook%2520Me%2520All%2520Night%2520Long%2520-%2520AC%252FDC
+    headers:
+      Accept-Ranges:
+      - bytes
+      Connection:
+      - keep-alive
+      Content-Length:
+      - '123'
+      Content-Type:
+      - text/plain; charset=utf-8
+      Date:
+      - Fri, 22 Oct 2021 19:20:07 GMT
+      GEOIP_CITY:
+      - Warsaw
+      GEOIP_CITY_COUNTRY_CODE:
+      - PL
+      GEOIP_CITY_COUNTRY_NAME:
+      - Poland
+      GEOIP_LATITUDE:
+      - '52.249'
+      GEOIP_LONGITUDE:
+      - '21.002'
+      GEOIP_REGION:
+      - '78'
+      Location:
+      - /verify-user?redirect=%2Fsearch%2FYou%2520Shook%2520Me%2520All%2520Night%2520Long%2520-%2520AC%252FDC
+      Set-Cookie:
+      - mxm_bab=BB; Expires=Mon, 20 Oct 2031 19:20:07 GMT; Path=/
+      Vary:
+      - Accept, X-User-Agent, X-User-Agent
+      Via:
+      - 1.1 varnish, 1.1 varnish
+      X-Cache:
+      - MISS, MISS
+      X-Cache-Hits:
+      - 0, 0
+      X-Powered-By:
+      - Express
+      X-Served-By:
+      - cache-dca17767-DCA, cache-hhn4026-HHN
+      X-Timer:
+      - S1634930406.393827,VS0,VE1004
+    status:
+      code: 302
+      message: Found
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      Cookie:
+      - mxm_bab=BB
+      User-Agent:
+      - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like
+        Gecko) Chrome/87.0.4280.141 Safari/537.36
+    method: GET
+    uri: https://www.musixmatch.com/verify-user?redirect=%2Fsearch%2FYou%2520Shook%2520Me%2520All%2520Night%2520Long%2520-%2520AC%252FDC
+  response:
+    body:
+      string: "<html>\n  <head>\n    <meta charset=\"utf-8\" />\n    <title>Musixmatch
+        - Song Lyrics and Translations</title>\n    <meta name=\"viewport\" content=\"width=device-width,
+        initial-scale=1.0, maximum-scale=1.0\" />\n     <script src=\"https://www.google.com/recaptcha/api.js\"
+        async defer></script>\n     <script>\n      mxmCaptchaCallback = function()
+        {\n          document.forms.captcha.submit();\n      }\n     </script>\n     <style>\n
+        \     html,\n      body {\n        padding: 0;\n        margin: 0;\n        font-family:
+        Helvetica Neue, Helvetica, sans-serif;\n        line-height: 1.5;\n        color:
+        #304151;\n      }\n      h1,h2,h3,h4 {\n        margin: 0;\n        padding:
+        0;\n        line-height: 1.25;\n      }\n      .mxm-human-verify {\n        margin:
+        0 auto;\n        max-width: 720px;\n        padding: 40px 0;\n        position:
+        relative;\n        padding: 20px;\n      }\n      .mxm-verify-robot-icon {\n
+        \       position: absolute;\n        right: 0;\n        top: 160px;\n      }\n
+        \     .mxm-logo {\n        text-align: center;\n        display: block;\n
+        \     }\n      .mxm-verify-headline {\n        margin-top: -40px !important;\n
+        \       font-size: 52px;\n        margin-bottom: 50px;\n      }\n      .mxm-verify-headline__quote
+        {\n        display: block;\n        font-size: 64px;\n      }\n      .mxm-verify-msg
+        {\n        font-size: 18px;\n        color: #5f6d7b;\n        margin-bottom:
+        40px;\n      }\n      .mxm-verify-form {\n        padding-top: 40px;\n        text-align:
+        center;\n        border-top: 1px solid #efefef;\n        margin: 0 auto;\n
+        \       width: 304px;\n      }\n\n\n     </style>\n  </head>\n  <body>\n    <div
+        class=\"mxm-human-verify\">\n      <a class=\"mxm-logo\" href=\"/\"><img src=\"https://s.mxmcdn.net/site/images/menu-logo@2x.png\"
+        alt=\"musixmatch\" width=140></a>\n      <br/><br/>\n      <span class=\"mxm-verify-headline__quote\">\u201F</span>\n
+        \     <div class=\"mxm-verify-robot-icon\">\n        <?xml version=\"1.0\"
+        encoding=\"UTF-8\" standalone=\"no\"?>\n<svg width=\"112px\" height=\"120px\"
+        viewBox=\"0 0 112 120\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\"
+        xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:sketch=\"http://www.bohemiancoding.com/sketch/ns\">\n
+        \   <g id=\"I'm-not-a-robot\" stroke=\"none\" stroke-width=\"1\" fill=\"none\"
+        fill-rule=\"evenodd\" sketch:type=\"MSPage\">\n        <g id=\"not-robot\"
+        sketch:type=\"MSArtboardGroup\" transform=\"translate(-858.000000, -153.000000)\"
+        fill=\"#D5D9DD\" opacity=\"0.599999964\">\n            <path d=\"M962.597647,200.542342
+        L959.614706,189.950301 C958.680784,187.885272 957.681078,186.151278 955.057794,185.937654
+        C952.627549,170.009912 936.782696,153.040143 915,153.040143 C893.106225,153.040143
+        877.191275,170.013717 874.758333,185.94309 C872.074118,186.206178 871.102451,188.361441
+        870.351863,190.042708 L867.401275,200.543429 C863.276814,200.800539 860,204.264178
+        860,208.48447 L860,223.095681 C860,227.483936 863.54049,231.055203 867.894118,231.055203
+        L870.107059,231.055203 L871.798578,237.876486 C872.465049,240.394311 874.248235,241.844561
+        876.842941,241.998935 C883.339412,261.670256 891.080931,271.234946 900.505882,271.234946
+        L929.494118,271.234946 C938.919069,271.234946 946.662206,261.670256 953.15598,241.998935
+        C955.751765,241.843474 957.534951,240.394311 958.2025,237.866159 L959.892941,231.055203
+        L962.104265,231.055203 C966.458431,231.055203 970,227.485567 970,223.095681
+        L970,208.48447 C970,204.264178 966.723725,200.800539 962.597647,200.542342
+        L962.597647,200.542342 Z M899.633431,266.225932 C893.469657,265.488849 887.387304,256.965099
+        882.380147,242.011981 L892.770833,242.011981 L899.633431,266.225932 L899.633431,266.225932
+        Z M931.722696,242.011981 L925.016471,266.278115 L904.983529,266.278115 L898.277304,242.011981
+        L931.722696,242.011981 L931.722696,242.011981 Z M947.619314,242.011981 C942.613775,256.965099
+        936.530343,265.487761 930.367647,266.225932 L937.229167,242.011981 L947.619314,242.011981
+        L947.619314,242.011981 Z M915,157.997518 C935.108971,157.997518 947.439216,174.06224
+        950.077059,185.915367 L879.912696,185.915367 C882.344559,174.375337 894.837647,157.997518
+        915,157.997518 L915,157.997518 Z M954.573039,231.055203 L953.085882,237.055693
+        L876.915735,237.055693 L875.426961,231.055203 L954.573039,231.055203 L954.573039,231.055203
+        Z M864.917647,208.48447 C864.917647,206.82875 866.253284,205.483954 867.894118,205.483954
+        L870.970343,205.483954 L874.377647,226.096198 L867.894118,226.096198 C866.253284,226.096198
+        864.917647,224.751401 864.917647,223.095681 L864.917647,208.48447 L864.917647,208.48447
+        Z M872.735196,200.528209 L875.449069,190.87383 L954.552549,190.87383 L957.264804,200.528209
+        L872.735196,200.528209 L872.735196,200.528209 Z M879.493186,226.096198 L876.085882,205.483954
+        L953.914118,205.483954 L950.505196,226.096198 L879.493186,226.096198 L879.493186,226.096198
+        Z M962.104265,226.096198 L955.622353,226.096198 L959.031275,205.483954 L962.104265,205.483954
+        C963.746716,205.483954 965.082353,206.82875 965.082353,208.48447 L965.082353,223.095681
+        C965.082353,224.751401 963.746716,226.096198 962.104265,226.096198 Z M907.752941,252.970389
+        L922.24652,252.970389 C923.694853,252.970389 924.705882,251.951736 924.705882,250.492789
+        C924.705882,249.034386 923.694853,248.015732 922.24652,248.015732 L907.752941,248.015732
+        C906.304608,248.015732 905.294118,249.034386 905.294118,250.492789 C905.294118,251.951736
+        906.304608,252.970389 907.752941,252.970389 Z\" id=\"daftpunk-icon\" sketch:type=\"MSShapeGroup\"
+        transform=\"translate(915.000000, 212.137545) rotate(10.000000) translate(-915.000000,
+        -212.137545) \"></path>\n        </g>\n    </g>\n</svg>\n      </div>\n      <h1
+        class=\"mxm-verify-headline\">\n        We are human after all\n        <br/>\n
+        \       <span className=\"mxm-verify-track\" style=\"font-size:13px;color:\">\n
+        \       Human After All <br/> DAFT PUNK\n        </span>\n      </h1>\n      <p
+        class=\"mxm-verify-msg\">\n        We detected that your IP is blocked.<br/>\n
+        \       It looks like you're a bot or more likely your network may have been
+        blacklisted for some reason.\n        Please confirm you are a human by checking
+        the box below.\n      </p>\n      <form class=\"mxm-verify-form\" action=\"?\"
+        id=\"captcha\" method=\"POST\">\n        <div class=\"g-recaptcha\" data-callback=\"mxmCaptchaCallback\"
+        data-sitekey=\"6LcJjQoTAAAAAKd6014UF3baDSR0rkTthD1Dev1j\"></div>\n\n          <input
+        type=\"hidden\" name=\"referer\" value=\"/search/You%20Shook%20Me%20All%20Night%20Long%20-%20AC%2FDC\">\n\n
+        \     </form>\n    </div>\n  </body>\n</html>\n"
+    headers:
+      Accept-Ranges:
+      - bytes
+      Connection:
+      - keep-alive
+      Content-Length:
+      - '6362'
+      Content-Type:
+      - text/html; charset=utf-8
+      Date:
+      - Fri, 22 Oct 2021 19:20:07 GMT
+      ETag:
+      - W/"18da-+D1Sl5yNZ9e41mY3fvitK5e0k0M"
+      GEOIP_CITY:
+      - Warsaw
+      GEOIP_CITY_COUNTRY_CODE:
+      - PL
+      GEOIP_CITY_COUNTRY_NAME:
+      - Poland
+      GEOIP_LATITUDE:
+      - '52.249'
+      GEOIP_LONGITUDE:
+      - '21.002'
+      GEOIP_REGION:
+      - '78'
+      Set-Cookie:
+      - musixmatchUserGuid=c71b3692-08c9-42de-baf9-f7dcca8b544d; expires=Tue, 09 Mar
+        2049 19:20:07 GMT; path=/
+      Vary:
+      - Accept-Encoding
+      Via:
+      - 1.1 varnish, 1.1 varnish
+      X-Cache:
+      - MISS, MISS
+      X-Cache-Hits:
+      - 0, 0
+      X-Powered-By:
+      - Express
+      X-Served-By:
+      - cache-dca17741-DCA, cache-hhn4026-HHN
+      X-Timer:
+      - S1634930407.439735,VS0,VE121
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like
+        Gecko) Chrome/87.0.4280.141 Safari/537.36
+    method: GET
+    uri: https://www.musixmatch.com/search/You%20Shook%20Me%20All%20Night%20Long%20-%20AC%2FDC/tracks
+  response:
+    body:
+      string: Found. Redirecting to /verify-user?redirect=%2Fsearch%2FYou%2520Shook%2520Me%2520All%2520Night%2520Long%2520-%2520AC%252FDC%2Ftracks
+    headers:
+      Accept-Ranges:
+      - bytes
+      Connection:
+      - keep-alive
+      Content-Length:
+      - '132'
+      Content-Type:
+      - text/plain; charset=utf-8
+      Date:
+      - Fri, 22 Oct 2021 19:20:09 GMT
+      GEOIP_CITY:
+      - Warsaw
+      GEOIP_CITY_COUNTRY_CODE:
+      - PL
+      GEOIP_CITY_COUNTRY_NAME:
+      - Poland
+      GEOIP_LATITUDE:
+      - '52.249'
+      GEOIP_LONGITUDE:
+      - '21.002'
+      GEOIP_REGION:
+      - '78'
+      Location:
+      - /verify-user?redirect=%2Fsearch%2FYou%2520Shook%2520Me%2520All%2520Night%2520Long%2520-%2520AC%252FDC%2Ftracks
+      Set-Cookie:
+      - mxm_bab=AA; Expires=Mon, 20 Oct 2031 19:20:09 GMT; Path=/
+      Vary:
+      - Accept, X-User-Agent, X-User-Agent
+      Via:
+      - 1.1 varnish, 1.1 varnish
+      X-Cache:
+      - MISS, MISS
+      X-Cache-Hits:
+      - 0, 0
+      X-Powered-By:
+      - Express
+      X-Served-By:
+      - cache-dca17736-DCA, cache-hhn4037-HHN
+      X-Timer:
+      - S1634930408.758556,VS0,VE1278
+    status:
+      code: 302
+      message: Found
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      Cookie:
+      - mxm_bab=AA
+      User-Agent:
+      - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like
+        Gecko) Chrome/87.0.4280.141 Safari/537.36
+    method: GET
+    uri: https://www.musixmatch.com/verify-user?redirect=%2Fsearch%2FYou%2520Shook%2520Me%2520All%2520Night%2520Long%2520-%2520AC%252FDC%2Ftracks
+  response:
+    body:
+      string: "<html>\n  <head>\n    <meta charset=\"utf-8\" />\n    <title>Musixmatch
+        - Song Lyrics and Translations</title>\n    <meta name=\"viewport\" content=\"width=device-width,
+        initial-scale=1.0, maximum-scale=1.0\" />\n     <script src=\"https://www.google.com/recaptcha/api.js\"
+        async defer></script>\n     <script>\n      mxmCaptchaCallback = function()
+        {\n          document.forms.captcha.submit();\n      }\n     </script>\n     <style>\n
+        \     html,\n      body {\n        padding: 0;\n        margin: 0;\n        font-family:
+        Helvetica Neue, Helvetica, sans-serif;\n        line-height: 1.5;\n        color:
+        #304151;\n      }\n      h1,h2,h3,h4 {\n        margin: 0;\n        padding:
+        0;\n        line-height: 1.25;\n      }\n      .mxm-human-verify {\n        margin:
+        0 auto;\n        max-width: 720px;\n        padding: 40px 0;\n        position:
+        relative;\n        padding: 20px;\n      }\n      .mxm-verify-robot-icon {\n
+        \       position: absolute;\n        right: 0;\n        top: 160px;\n      }\n
+        \     .mxm-logo {\n        text-align: center;\n        display: block;\n
+        \     }\n      .mxm-verify-headline {\n        margin-top: -40px !important;\n
+        \       font-size: 52px;\n        margin-bottom: 50px;\n      }\n      .mxm-verify-headline__quote
+        {\n        display: block;\n        font-size: 64px;\n      }\n      .mxm-verify-msg
+        {\n        font-size: 18px;\n        color: #5f6d7b;\n        margin-bottom:
+        40px;\n      }\n      .mxm-verify-form {\n        padding-top: 40px;\n        text-align:
+        center;\n        border-top: 1px solid #efefef;\n        margin: 0 auto;\n
+        \       width: 304px;\n      }\n\n\n     </style>\n  </head>\n  <body>\n    <div
+        class=\"mxm-human-verify\">\n      <a class=\"mxm-logo\" href=\"/\"><img src=\"https://s.mxmcdn.net/site/images/menu-logo@2x.png\"
+        alt=\"musixmatch\" width=140></a>\n      <br/><br/>\n      <span class=\"mxm-verify-headline__quote\">\u201F</span>\n
+        \     <div class=\"mxm-verify-robot-icon\">\n        <?xml version=\"1.0\"
+        encoding=\"UTF-8\" standalone=\"no\"?>\n<svg width=\"112px\" height=\"120px\"
+        viewBox=\"0 0 112 120\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\"
+        xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:sketch=\"http://www.bohemiancoding.com/sketch/ns\">\n
+        \   <g id=\"I'm-not-a-robot\" stroke=\"none\" stroke-width=\"1\" fill=\"none\"
+        fill-rule=\"evenodd\" sketch:type=\"MSPage\">\n        <g id=\"not-robot\"
+        sketch:type=\"MSArtboardGroup\" transform=\"translate(-858.000000, -153.000000)\"
+        fill=\"#D5D9DD\" opacity=\"0.599999964\">\n            <path d=\"M962.597647,200.542342
+        L959.614706,189.950301 C958.680784,187.885272 957.681078,186.151278 955.057794,185.937654
+        C952.627549,170.009912 936.782696,153.040143 915,153.040143 C893.106225,153.040143
+        877.191275,170.013717 874.758333,185.94309 C872.074118,186.206178 871.102451,188.361441
+        870.351863,190.042708 L867.401275,200.543429 C863.276814,200.800539 860,204.264178
+        860,208.48447 L860,223.095681 C860,227.483936 863.54049,231.055203 867.894118,231.055203
+        L870.107059,231.055203 L871.798578,237.876486 C872.465049,240.394311 874.248235,241.844561
+        876.842941,241.998935 C883.339412,261.670256 891.080931,271.234946 900.505882,271.234946
+        L929.494118,271.234946 C938.919069,271.234946 946.662206,261.670256 953.15598,241.998935
+        C955.751765,241.843474 957.534951,240.394311 958.2025,237.866159 L959.892941,231.055203
+        L962.104265,231.055203 C966.458431,231.055203 970,227.485567 970,223.095681
+        L970,208.48447 C970,204.264178 966.723725,200.800539 962.597647,200.542342
+        L962.597647,200.542342 Z M899.633431,266.225932 C893.469657,265.488849 887.387304,256.965099
+        882.380147,242.011981 L892.770833,242.011981 L899.633431,266.225932 L899.633431,266.225932
+        Z M931.722696,242.011981 L925.016471,266.278115 L904.983529,266.278115 L898.277304,242.011981
+        L931.722696,242.011981 L931.722696,242.011981 Z M947.619314,242.011981 C942.613775,256.965099
+        936.530343,265.487761 930.367647,266.225932 L937.229167,242.011981 L947.619314,242.011981
+        L947.619314,242.011981 Z M915,157.997518 C935.108971,157.997518 947.439216,174.06224
+        950.077059,185.915367 L879.912696,185.915367 C882.344559,174.375337 894.837647,157.997518
+        915,157.997518 L915,157.997518 Z M954.573039,231.055203 L953.085882,237.055693
+        L876.915735,237.055693 L875.426961,231.055203 L954.573039,231.055203 L954.573039,231.055203
+        Z M864.917647,208.48447 C864.917647,206.82875 866.253284,205.483954 867.894118,205.483954
+        L870.970343,205.483954 L874.377647,226.096198 L867.894118,226.096198 C866.253284,226.096198
+        864.917647,224.751401 864.917647,223.095681 L864.917647,208.48447 L864.917647,208.48447
+        Z M872.735196,200.528209 L875.449069,190.87383 L954.552549,190.87383 L957.264804,200.528209
+        L872.735196,200.528209 L872.735196,200.528209 Z M879.493186,226.096198 L876.085882,205.483954
+        L953.914118,205.483954 L950.505196,226.096198 L879.493186,226.096198 L879.493186,226.096198
+        Z M962.104265,226.096198 L955.622353,226.096198 L959.031275,205.483954 L962.104265,205.483954
+        C963.746716,205.483954 965.082353,206.82875 965.082353,208.48447 L965.082353,223.095681
+        C965.082353,224.751401 963.746716,226.096198 962.104265,226.096198 Z M907.752941,252.970389
+        L922.24652,252.970389 C923.694853,252.970389 924.705882,251.951736 924.705882,250.492789
+        C924.705882,249.034386 923.694853,248.015732 922.24652,248.015732 L907.752941,248.015732
+        C906.304608,248.015732 905.294118,249.034386 905.294118,250.492789 C905.294118,251.951736
+        906.304608,252.970389 907.752941,252.970389 Z\" id=\"daftpunk-icon\" sketch:type=\"MSShapeGroup\"
+        transform=\"translate(915.000000, 212.137545) rotate(10.000000) translate(-915.000000,
+        -212.137545) \"></path>\n        </g>\n    </g>\n</svg>\n      </div>\n      <h1
+        class=\"mxm-verify-headline\">\n        We are human after all\n        <br/>\n
+        \       <span className=\"mxm-verify-track\" style=\"font-size:13px;color:\">\n
+        \       Human After All <br/> DAFT PUNK\n        </span>\n      </h1>\n      <p
+        class=\"mxm-verify-msg\">\n        We detected that your IP is blocked.<br/>\n
+        \       It looks like you're a bot or more likely your network may have been
+        blacklisted for some reason.\n        Please confirm you are a human by checking
+        the box below.\n      </p>\n      <form class=\"mxm-verify-form\" action=\"?\"
+        id=\"captcha\" method=\"POST\">\n        <div class=\"g-recaptcha\" data-callback=\"mxmCaptchaCallback\"
+        data-sitekey=\"6LcJjQoTAAAAAKd6014UF3baDSR0rkTthD1Dev1j\"></div>\n\n          <input
+        type=\"hidden\" name=\"referer\" value=\"/search/You%20Shook%20Me%20All%20Night%20Long%20-%20AC%2FDC/tracks\">\n\n
+        \     </form>\n    </div>\n  </body>\n</html>\n"
+    headers:
+      Accept-Ranges:
+      - bytes
+      Connection:
+      - keep-alive
+      Content-Length:
+      - '6369'
+      Content-Type:
+      - text/html; charset=utf-8
+      Date:
+      - Fri, 22 Oct 2021 19:20:09 GMT
+      ETag:
+      - W/"18e1-ViakX9dazxilwNwebfuPFsKKO/c"
+      GEOIP_CITY:
+      - Warsaw
+      GEOIP_CITY_COUNTRY_CODE:
+      - PL
+      GEOIP_CITY_COUNTRY_NAME:
+      - Poland
+      GEOIP_LATITUDE:
+      - '52.249'
+      GEOIP_LONGITUDE:
+      - '21.002'
+      GEOIP_REGION:
+      - '78'
+      Set-Cookie:
+      - musixmatchUserGuid=5f7e9b00-90f8-4060-a794-d6fb5cf8148a; expires=Tue, 09 Mar
+        2049 19:20:09 GMT; path=/
+      Vary:
+      - Accept-Encoding
+      Via:
+      - 1.1 varnish, 1.1 varnish
+      X-Cache:
+      - MISS, MISS
+      X-Cache-Hits:
+      - 0, 0
+      X-Powered-By:
+      - Express
+      X-Served-By:
+      - cache-dca17743-DCA, cache-hhn4037-HHN
+      X-Timer:
+      - S1634930409.086540,VS0,VE118
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Authorization:
+      - Bearer BQBjXTkWDqZSM5LBXmnnjNmgd6G43iNiKTni8W1mriEGpuuEz6zHA2ovAPCO2NFT3mmhad8J_PuRDC6BmfE
+      Connection:
+      - keep-alive
+      Content-Type:
+      - application/json
+      User-Agent:
+      - python-requests/2.26.0
+    method: GET
+    uri: https://api.spotify.com/v1/search?q=The+HU+-+Sugaan+Essenna&limit=10&offset=0&type=track
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAAFyNvQ7CIBRGd5+CMHRB+7M2IU4m7upkHEhzESIFhNvGpum729K6OJ6Tk+8bd4RQ
+        DKJ5RUpqMs44CxVALkgVoo91UQiv8+gdajnkjWuLvioiiNCo47uDMPCrAna+sQO7dE8hLDvFCNaK
+        DAcPPM1nTsoIyMvM6FYjr0q6X880QpvO7+SxqZQsqio3Y+GThO2M2dQ6uMhf5AP02nXxL0SHwqRu
+        5mk3fQEAAP//AwArFp7t9AAAAA==
+    headers:
+      Alt-Svc:
+      - clear
+      Transfer-Encoding:
+      - chunked
+      Via:
+      - HTTP/2 edgeproxy, 1.1 google
+      access-control-allow-credentials:
+      - 'true'
+      access-control-allow-headers:
+      - Accept, App-Platform, Authorization, Content-Type, Origin, Retry-After, Spotify-App-Version,
+        X-Cloud-Trace-Context, client-token, content-access-token
+      access-control-allow-methods:
+      - GET, POST, OPTIONS, PUT, DELETE, PATCH
+      access-control-allow-origin:
+      - '*'
+      access-control-max-age:
+      - '604800'
+      cache-control:
+      - public, max-age=7200
+      content-encoding:
+      - gzip
+      content-type:
+      - application/json; charset=utf-8
+      date:
+      - Fri, 22 Oct 2021 19:20:09 GMT
+      server:
+      - envoy
+      strict-transport-security:
+      - max-age=31536000
+      x-content-type-options:
+      - nosniff
+      x-robots-tag:
+      - noindex, nofollow
+    status:
+      code: 200
+      message: OK
+version: 1
